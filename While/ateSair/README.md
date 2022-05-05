@@ -1,0 +1,2 @@
+#Exercício
+Vamos escrever um programa que solicita ao usuário que ele digite alguma palavra ou frase, pode ser qualquer coisa, em seguida mostra o que foi digitado na tela. O programa deve funcionar infinitamente, sempre solicitando uma nova palavra ou frase, enquanto não for escrito a palavra sair.
